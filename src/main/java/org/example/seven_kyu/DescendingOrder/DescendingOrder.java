@@ -1,4 +1,4 @@
-package org.example.seven.kyu.DescendingOrder;
+package org.example.seven_kyu.DescendingOrder;
 
 
 import java.util.Arrays;
